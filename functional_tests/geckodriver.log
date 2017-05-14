@@ -1,0 +1,27 @@
+1494750155736	geckodriver	INFO	Listening on 127.0.0.1:49612
+1494750156835	mozprofile::profile	INFO	Using profile path /var/folders/ny/s1463c6n3wv7xyx5jsbpl6gm0000gq/T/rust_mozprofile.dAzBB7Z8l568
+1494750156837	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1494750156854	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49621
+1494750159281	Marionette	INFO	Listening on port 49621
+1494750159360	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-14 13:52:39.908 plugin-container[787:14185] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-14 13:52:39.912 plugin-container[787:14185] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1494750321100	geckodriver	INFO	Listening on 127.0.0.1:49777
+1494750322164	mozprofile::profile	INFO	Using profile path /var/folders/ny/s1463c6n3wv7xyx5jsbpl6gm0000gq/T/rust_mozprofile.MFgZzpetDMdB
+1494750322166	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1494750322169	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49786
+1494750324708	Marionette	INFO	Listening on port 49786
+1494750324802	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-14 13:55:25.318 plugin-container[811:15377] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-14 13:55:25.323 plugin-container[811:15377] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1494750325419	Marionette	INFO	New connections will no longer be accepted
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
